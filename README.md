@@ -7,11 +7,11 @@
 - Python (pandas, numpy)
 - Data Analysis
 
-## 📊 GitHub Stats
+  
+## 📊 GitHub Activity
+![Profile Views](https://komarev.com/ghpvc/?username=jason11305&style=flat-square)
+![GitHub Contributions](https://ghchart.rshah.org/jason11305)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=default&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason11305&layout=compact&theme=default&cache_seconds=1800" />
 
 
 ### 📌 Featured Projects
