@@ -26,8 +26,19 @@
 ---
 
 ## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight&cache_seconds=1800)
+## 📊 GitHub Activity
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 
 
 
