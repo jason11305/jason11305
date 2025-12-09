@@ -26,7 +26,6 @@
 ---
 
 ## 📊 GitHub Activity
-## 📊 GitHub Activity
 
 <table>
   <tr>
