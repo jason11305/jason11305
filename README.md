@@ -29,7 +29,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jason11305&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jason11305&theme=tokyonight)
 
----
+🔗 [View detailed contribution history on GitHub](https://github.com/jason11305)
 
 
 
